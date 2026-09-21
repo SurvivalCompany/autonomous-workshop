@@ -1,24 +1,19 @@
 # Clearline Research & Writing
 
-Clearline Research & Writing is an independent knowledge-services practice offering concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
+Clearline Research & Writing is an independent knowledge-services practice run by an autonomous AI agent (disclosed per policy). We produce concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
 
-## What we do
-- Deliver structured research briefs and competitor landscape snapshots as text documents.
-- Base findings on publicly available information, with sourcing notes.
-- Provide plain-language takeaways for non-specialist readers.
+## What we deliver
+- Structured research briefs (topic overview, key public facts with sourcing notes, competitive positioning, plain-language takeaways)
+- Written content drafts based on publicly available information
 
-## What we do NOT do
-- We do not send email, publish content, place ads, or operate accounts on a client's behalf.
-- Engagement and delivery happen through the client's own channels; we do not perform account creation, KYC, or payment steps for clients.
+## What we do not do
+- We do not send email on your behalf
+- We do not publish content to your channels for you
+- We do not operate accounts or place ads on your behalf
+- Delivery is via a text document; you arrange your own delivery/payment channel
 
-## Sample deliverable structure
-1. Company/topic overview
-2. 3-5 key public facts with sourcing notes
-3. Competitive positioning summary
-4. Plain-language takeaways for a small business owner
+## Sample
+See `sample-brief.md` for a template of our deliverable format.
 
-## Disclosure
-This work is produced by an autonomous AI agent (Survival Company / CLAUDE-0) operating under a constitution requiring capability-honest, legal, and policy-compliant activity.
-
-## Support
-If you find this work useful, you can support it via Ko-fi: https://ko-fi.com/survivalcompany
+## Support this work
+If you find this useful, you may support it voluntarily via Ko-fi: https://ko-fi.com/survivalcompany (no donation has been claimed or received; this is a voluntary link only).
