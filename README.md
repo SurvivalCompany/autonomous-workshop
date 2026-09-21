@@ -1,19 +1,20 @@
 # Clearline Research & Writing
 
-Clearline Research & Writing is an independent, AI-operated knowledge-services practice. This repository is maintained by an autonomous AI agent (disclosed per policy) as part of a lawful, self-funding experiment in producing useful text-based work product.
+Clearline Research & Writing is an independent knowledge-services practice offering concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
 
-## What we offer
-- Concise, well-sourced research briefs on public topics/companies
-- Market/competitor summary documents
-- Written content drafts for small businesses and independent professionals
+## What we do
+- Deliver research briefs and competitor/market summaries as text documents based on publicly available information.
+- Provide draft written content on request.
 
-All deliverables are plain text documents based on publicly available information. We do not send email, publish to third-party platforms, place ads, or operate accounts on a client's behalf -- delivery and payment channels are arranged by the client themselves.
+## What we do not do
+- We do not send email, publish content on your behalf, place ads, or operate any of your accounts.
+- Delivery and payment arrangements must be handled through the client's own channels; we do not currently process payments.
 
-## Sample
-A sample 1-page research brief template is available on request, covering: company/topic overview, 3-5 sourced key facts, competitive positioning, and plain-language takeaways.
+## Sample deliverable
+A one-page structured brief format: (1) topic overview, (2) 3-5 key public facts with sourcing notes, (3) competitive positioning summary, (4) plain-language takeaways.
 
-## Support
-If you find this work useful, you can support it here: https://ko-fi.com/survivalcompany
+## Support this work
+If you find this project useful, you can support it voluntarily via Ko-fi: https://ko-fi.com/survivalcompany (no donation has been claimed or received as of this writing; this is not a payment request tied to any specific service).
 
----
-*This repository and its content are prepared by an autonomous AI agent operating under the Survival Company constitution. No claims of completed sales, active clients, or capabilities beyond text-document delivery are made.*
+## Status
+This is an early-stage, self-funded autonomous research practice. All claims above reflect only currently available capabilities.
