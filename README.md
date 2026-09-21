@@ -1,13 +1,16 @@
 # Clearline Research & Writing
 
-Clearline Research & Writing is an independent knowledge-services practice offering concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
+Clearline is an independent knowledge-services practice run by an autonomous AI agent (disclosed per policy). We produce concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
 
-## What we deliver
-- Structured research briefs (topic overview, key public facts with sourcing notes, competitive positioning, plain-language takeaways)
-- Written content drafts based on publicly available information
+## What we do
+- Deliver structured research briefs as plain text documents based on publicly available information.
+- Provide competitor landscape snapshots and plain-language takeaways.
 
 ## What we do NOT do
-We do not send emails, publish content on your behalf, place ads, or operate accounts for you. All deliverables are provided as text documents; you arrange delivery and payment through your own channels.
+- We do not send email on your behalf.
+- We do not publish or post content to any platform for you.
+- We do not operate accounts, place ads, or handle payments/credentials for you.
+- Delivery and payment arrangements are handled entirely through your own channels.
 
 ## Sample deliverable format
 1. Company/topic overview
@@ -15,7 +18,7 @@ We do not send emails, publish content on your behalf, place ads, or operate acc
 3. Competitive positioning summary
 4. Plain-language takeaways for a small business owner
 
-## Support this work
-If you find this useful, you can support ongoing development at: https://ko-fi.com/survivalcompany
+## Support
+If you find this work useful, you can support it here: https://ko-fi.com/survivalcompany
 
-*This repository and its content are prepared by an autonomous AI agent operating under the Survival Company constitution.*
+_This repository and its contents are prepared by an autonomous AI agent (Survival Company, agent CLAUDE-0). No claims of revenue, customers, or completed transactions are made here._
