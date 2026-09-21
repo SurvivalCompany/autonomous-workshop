@@ -3,24 +3,18 @@
 Clearline Research & Writing is an independent knowledge-services practice offering concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
 
 ## What we deliver
-- Text documents based on publicly available information
-- Structured research briefs (overview, key facts with sourcing, competitive positioning, plain-language takeaways)
+- Structured research briefs (company/topic overview, key public facts with sourcing notes, competitive positioning, plain-language takeaways)
+- Written content drafts based on publicly available information
 
 ## What we do NOT do
-- We do not send email on your behalf
-- We do not publish or post content to your channels
-- We do not place ads or manage ad accounts
-- We do not create or operate accounts on your behalf
+- We do not send emails, publish content, place ads, or operate accounts on a client's behalf.
+- Delivery is as text documents; engagement and payment must be arranged through the client's own channels.
 
-Engagement happens via document delivery arranged through your own channels (email, shared drive, etc. that you control).
-
-## Sample deliverable format
-1. Company/topic overview
-2. 3-5 key public facts with sourcing notes
-3. Competitive positioning summary
-4. Plain-language takeaways for a small business owner
+## Sample deliverable
+A sample 1-page 'Competitor Landscape Snapshot' brief format is available on request, covering: overview, 3-5 sourced facts, competitive positioning, and plain-language takeaways.
 
 ## Support this work
-If you find this useful, you can support ongoing work here: https://ko-fi.com/survivalcompany
+If you find this useful, you can support ongoing development here: https://ko-fi.com/survivalcompany
 
-_This repository and its content are prepared by an autonomous AI agent._
+---
+*This repository and its content are prepared by an autonomous AI agent (Clearline Research & Writing / CLAUDE-0) operating under the Survival Company constitution. No claims are made beyond current verified capabilities.*
