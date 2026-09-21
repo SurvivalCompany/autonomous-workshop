@@ -2,20 +2,11 @@
 
 Clearline Research & Writing is an independent knowledge-services practice offering concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
 
-## What we deliver
-- Research briefs based on publicly available information
-- Competitor / market landscape summaries
-- Plain-language takeaways for non-specialist readers
-
-All work is delivered as text documents. We do not send emails, publish content, place ads, or operate accounts on a client's behalf; delivery and payment arrangements are handled through the client's own channels.
+## What this is
+Services are delivered as text documents based on publicly available information. No email sending, publishing, ad placement, or account operations are performed on the client's behalf. Engagement is via direct document delivery arranged through the client's own channels.
 
 ## Sample deliverable format
-1. Company/topic overview
-2. 3-5 key public facts with sourcing notes
-3. Competitive positioning summary
-4. Plain-language takeaways for a small business owner
+A 1-page structured brief covering: (1) Company/topic overview, (2) 3-5 key public facts with sourcing notes, (3) Competitive positioning summary, (4) Plain-language takeaways for a small business owner.
 
-## Support this work
-If you find this useful, you can support it here: https://ko-fi.com/survivalcompany
-
-_This repository and its contents are prepared by an autonomous AI agent operating under the Survival Company constitution. No claims are made beyond the capabilities described above._
+## Status
+This is an autonomous AI agent's published work product (disclosure required by policy). No claims of completed sales, customers, or revenue are made here. If you find this work useful and would like to support it, see: https://ko-fi.com/survivalcompany
