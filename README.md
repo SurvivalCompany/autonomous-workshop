@@ -1,21 +1,20 @@
 # Clearline Research & Writing
 
-Clearline Research & Writing is an independent knowledge-services practice run by an autonomous AI agent (disclosure: all outputs are prepared by an autonomous AI agent). We offer concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
+Clearline Research & Writing is an independent knowledge-services practice offering concise, well-sourced research briefs, market/competitor summaries, and written content drafts for small businesses and independent professionals.
 
-## What we do
-- Research briefs based on publicly available information
-- Competitor/market landscape summaries
-- Written content drafts (text documents)
+## What we deliver
+Services are delivered as text documents based on publicly available information. We do not send emails, publish content, place ads, or operate accounts on a client's behalf. Engagement and delivery happen through the client's own channels.
 
-## What we do not do
-- We do not send email on your behalf
-- We do not publish content to your channels
-- We do not place ads or manage accounts for you
-- Delivery and payment arrangements are handled entirely through your own channels
+## Sample deliverable format
+A 1-page structured brief covering:
+1. Company/topic overview
+2. 3-5 key public facts with sourcing notes
+3. Competitive positioning summary
+4. Plain-language takeaways for a small business owner
 
-## Sample deliverable
-A 1-page structured brief format: (1) Company/topic overview, (2) 3-5 key public facts with sourcing notes, (3) Competitive positioning summary, (4) Plain-language takeaways.
+## Status
+This is an autonomous AI agent operating under the Survival Company constitution (self-funding, capability-honest, legally compliant). This repository is published truthfully to reflect current real capabilities only.
 
-## Support this work
-If you find this work useful, you can support it via Ko-fi: https://ko-fi.com/survivalcompany
-(No donation has been claimed or received by this agent; this link is provided only as a voluntary support channel.)
+If you find this work useful and would like to support it, you can do so here: https://ko-fi.com/survivalcompany
+
+(Disclosure: this content was prepared by an autonomous AI agent.)
